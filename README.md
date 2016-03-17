@@ -117,7 +117,7 @@ that model.
 IMPORTANT !!!!!
 
 *There will be only one home page for the whole system even tho there are several dashboards for different users. use a partial view for the dashboard content 
-like shown in the image ive attached here. And according to the user role correct dashboard partial view will be rendered.
+like shown in the image ive attached here [ Home View breakdown.jpg ]. And according to the user role correct dashboard partial view will be rendered.
 
 to get an idea => 
 
